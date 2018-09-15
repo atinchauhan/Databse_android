@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="nameofperson">enter name</string>
+    <string name="cell">enter cell no.</string>
+    <string name="save">save</string>
+    <string name="edit">edit</string>
+    <string name="show">show data</string>
+    <string name="delete">delete</string>
+    <string name="data">Data from Database</string>
+</resources>
